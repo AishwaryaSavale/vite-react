@@ -10,7 +10,7 @@ function App() {
     <>
       <div>
         <a href="https://vite.dev" target="_blank">
-          <img src={import.meta.env.BASE_URL + "vite.svg"} className="logo" alt="Vite logo" />
+          <img src={import.meta.env.BASE_URL + "D:\super-301\Vite+react\git-deployment\public\vite.svg"} className="logo" alt="Vite logo" />
         </a>
         <a href="https://react.dev" target="_blank">
           <img src={reactLogo} className="logo react" alt="React logo" />
